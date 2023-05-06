@@ -1,0 +1,458 @@
+reférence,nom de l’article,partie du vêtement,étape,pourcentage de la matière
+200000,chemise en popeline,extérieur,Préparation de tissu,100%
+200001,chemise en popeline,extérieur,Préparation de tissu,100%
+200002,blouse métallique hilo,extérieur, Production de fibres,62%
+200002,blouse métallique hilo,extérieur,Elimination,37%
+200002,blouse métallique hilo,extérieur,Preparation de fil,1%
+200003,blouse en satin alamares,extérieur, Production de fibres,100%
+200004,blouse courte imprimé,extérieur,Teinture et finition,100%
+200005,blouse courte imprimé,extérieur,Teinture et finition,100%
+200006,blouse imprimé velours,doublure,Teinture et finition,100%
+200007,blouse en satin imprimé,extérieur,Teinture et finition,100%
+200008,blouse à poche en lin,extérieur,Distribution,100%
+200009,blouse à poche en lin,extérieur,Distribution,100%
+200010,blouse à poche en lin,extérieur,Distribution,100%
+200011,blouse en satin avec poches,extérieur, Production de fibres,100%
+200012,blouse en satin avec poches,extérieur, Production de fibres,100%
+200013,blouse en satin avec poches,extérieur, Production de fibres,100%
+200014,blouse en satin imprimé,extérieur,Teinture et finition,100%
+200015,blouse courte à nœud,extérieur, Production de fibres,100%
+200016,blouse courte à nœud,extérieur, Production de fibres,100%
+200017,chemise en popeline,extérieur,Préparation de tissu,100%
+200018,chemise en popeline,extérieur,Préparation de tissu,100%
+200019,blouse jacquard,extérieur, Production de fibres,52%
+200019,blouse jacquard,extérieur,Teinture et finition,42%
+200019,blouse jacquard,extérieur,Preparation de fil,6%
+200020,blouse fluide à volants,extérieur,Teinture et finition,100%
+200021,chemise en popeline,extérieur,Préparation de tissu,100%
+200022,chemise satinée,extérieur,Teinture et finition,100%
+200023,blouse imprimé avec ceinture,extérieur,Teinture et finition,100%
+200024,blouse courte imprimé,extérieur,Teinture et finition,100%
+200024,blouse courte imprimé,doublure,Teinture et finition,100%
+200026,chemise satinée,extérieur,Teinture et finition,100%
+200027,chemise satinée,extérieur,Teinture et finition,100%
+200028,chemise satinée,extérieur,Teinture et finition,100%
+200029,chemise satinée,extérieur,Teinture et finition,100%
+200030,chemise satinée,extérieur,Teinture et finition,100%
+200031,chemise satinée,extérieur,Teinture et finition,100%
+200032,blouse longue imprimé animal,extérieur,Teinture et finition,100%
+200033,blouse fluide avec poches,extérieur,Assemblée,97%
+200033,blouse fluide avec poches,extérieur,Teinture et finition,3%
+200034,blouse longue bas doré,extérieur,Assemblée,79%
+200034,blouse longue bas doré,extérieur,Assemblée,18%
+200034,blouse longue bas doré,extérieur,Preparation de fil,3%
+200035,blouse satin nœud,extérieur, Production de fibres,100%
+200037,blouse nœud,extérieur,Teinture et finition,100%
+200039,blouse à pois,extérieur,Assemblée,74%
+200039,blouse à pois,extérieur,Distribution,26%
+200040,corps à manches drappées,extérieur,Teinture et finition,100%
+200041,blouse courte à nœud,extérieur, Production de fibres,100%
+200042,blouse à nœud imprimé ,extérieur,Teinture et finition,97%
+200042,blouse à nœud imprimé ,extérieur,Preparation de fil,3%
+200043,chemise satinée,extérieur,Teinture et finition,100%
+200044,blouse longue imprimé animal,extérieur,Teinture et finition,100%
+200045,blouse jacquard volants,extérieur, Production de fibres,55%
+200045,blouse jacquard volants,extérieur,Teinture et finition,40%
+200045,blouse jacquard volants,extérieur,Preparation de fil,5%
+200046,chemise en popeline,extérieur,Préparation de tissu,100%
+200047,blouse effet métallique ,extérieur,Teinture et finition,53%
+200047,blouse effet métallique ,extérieur,Elimination,47%
+200048,blouse nœud,extérieur,Teinture et finition,100%
+200049,chemisier structuré,extérieur, Production de fibres,77%
+200049,chemisier structuré,extérieur,Elimination,19%
+200049,chemisier structuré,extérieur,Assemblée,4%
+200050,blouse plissées à nœud,extérieur,Teinture et finition,100%
+200051,blouse courte imprimé,extérieur,Teinture et finition,100%
+200052,blouse fluide avec poches,extérieur,Assemblée,97%
+200052,blouse fluide avec poches,extérieur,Teinture et finition,3%
+200053,chemise en popeline,extérieur,Préparation de tissu,100%
+200055,blouse en satin aves épaules,extérieur, Production de fibres,100%
+200056,body en satin croisé,extérieur,Teinture et finition,100%
+200057,blouse jacquard,extérieur, Production de fibres,100%
+200058,blouse courte imprimé,extérieur,Teinture et finition,100%
+200059,blouse courte imprimé,extérieur,Teinture et finition,100%
+100000,robe imprimée,extérieur, Production de fibres,100%
+100001,robe en dentelle combinée,extérieur,Assemblée,97%
+100001,robe en dentelle combinée,extérieur,Teinture et finition,3%
+100002,robe longue imprimée,extérieur,Teinture et finition,100%
+100002,robe longue imprimée,doublure,Teinture et finition,100%
+100003,robe midi imprimée,extérieur, Production de fibres,100%
+100004,robe midi dentelle,extérieur, Production de fibres,100%
+100006,robe midi avec ceinture,extérieur,Teinture et finition,100%
+100007,robe imprimée alamares,extérieur,Teinture et finition,100%
+100008,robe en maille,extérieur,Distribution,58%
+100008,robe en maille,extérieur,Teinture et finition,30%
+100008,robe en maille,extérieur,Distribution,12%
+100009,robe imprimée fleuri,extérieur, Production de fibres,100%
+100011,robe midi satinée,extérieur, Production de fibres,100%
+100013,robe en maille perle,extérieur,Distribution,59%
+100013,robe en maille perle,extérieur,Teinture et finition,30%
+100013,robe en maille perle,extérieur,Distribution,11%
+100014,robe taille satinée,extérieur,Teinture et finition,100%
+100015,robe imprimée laçée,extérieur, Production de fibres,100%
+100017,robe jacquard,extérieur, Production de fibres,100%
+100018,robe imprimée volume,extérieur,Teinture et finition,100%
+100018,robe imprimée volume,doublure,Teinture et finition,100%
+100019,robe fluide avec épaulettes,extérieur,Teinture et finition,100%
+100019,robe fluide avec épaulettes,doublure,Teinture et finition,100%
+100021,mini robe avec ouverture,extérieur,Teinture et finition,100%
+100022,robe volume,extérieur,Préparation de tissu,100%
+100024,robe à épaulette,extérieur,Préparation de tissu,100%
+100025,robe fluide,extérieur,Assemblée,100%
+100026,robe drapée,extérieur,Teinture et finition,71%
+100026,robe drapée,extérieur, Production de fibres,23%
+100026,robe drapée,extérieur,Preparation de fil,6%
+100027,robe imprimée animal,extérieur, Production de fibres,100%
+100028,robe lingérie froncée,extérieur, Production de fibres,100%
+100029,robe mini imprimée,extérieur,Teinture et finition,100%
+100029,robe mini imprimée,doublure, Production de fibres,100%
+100030,Robe en fil métallique ,extérieur, Production de fibres,60%
+100030,Robe en fil métallique ,extérieur,Teinture et finition,37%
+100030,Robe en fil métallique ,extérieur,Elimination,3%
+100030,Robe en fil métallique ,doublure,Teinture et finition,100%
+100031,robe imprimée animal,extérieur,Teinture et finition,100%
+100031,robe imprimée animal,doublure,Teinture et finition,100%
+100032,chemise habillée,extérieur,Préparation de tissu,59%
+100032,chemise habillée,extérieur,Assemblée,35%
+100032,chemise habillée,extérieur,Preparation de fil,6%
+100032,chemise habillée,doublure,Teinture et finition,100%
+100033,robe mini à pois,extérieur,Teinture et finition,100%
+100034,robe jacquard ceinture,extérieur,Teinture et finition,100%
+100035,robe lingerie froncée,extérieur, Production de fibres,100%
+100036,robe rembourrée jacquardaux épaules ,extérieur,Teinture et finition,54%
+100036,robe rembourrée jacquardaux épaules ,extérieur,Préparation de tissu,45%
+100036,robe rembourrée jacquardaux épaules ,extérieur,Preparation de fil,1%
+100037,robe fluide,extérieur,Teinture et finition,100%
+100037,robe fluide,doublure,Teinture et finition,100%
+100038,robe drapée imprimée,extérieur, Production de fibres,100%
+100039,robe longue imprimée animal,extérieur,Teinture et finition,100%
+100039,robe longue imprimée animal,doublure,Teinture et finition,100%
+100040,robe imprimée,extérieur, Production de fibres,100%
+100041,robe structurée,extérieur,Teinture et finition,99%
+100041,robe structurée,extérieur,Preparation de fil,1%
+100042,robe à bouton,extérieur,Assemblée,100%
+100043,robe mini plumeti,doublure,Teinture et finition,100%
+100044,robe midi imprimée,extérieur, Production de fibres,100%
+100045,robe fluide drapée,extérieur,Teinture et finition,100%
+100045,robe fluide drapée,doublure,Teinture et finition,100%
+100046,robe mini imprimée,extérieur, Production de fibres,100%
+100047,robe rembourrée jacquardaux épaules ,extérieur,Teinture et finition,54%
+100047,robe rembourrée jacquardaux épaules ,extérieur,Préparation de tissu,45%
+100047,robe rembourrée jacquardaux épaules ,extérieur,Preparation de fil,1%
+100048,robe en fronce,extérieur,Préparation de tissu,100%
+100050,robe à épaulette,extérieur,Teinture et finition,100%
+100051,vêtement ajusté,extérieur,Préparation de tissu,53%
+100051,vêtement ajusté,extérieur,Teinture et finition,44%
+100051,vêtement ajusté,extérieur,Preparation de fil,3%
+100052,robe imprimée,extérieur,Teinture et finition,100%
+100053,robe côtelée,extérieur,Préparation de tissu,96%
+100053,robe côtelée,extérieur,Preparation de fil,4%
+100054,chemise habillée imprimée,extérieur, Production de fibres,100%
+100055,robe en velours,extérieur,Teinture et finition,92%
+100055,robe en velours,extérieur,Preparation de fil,8%
+100056,robe à épaulette,extérieur,Préparation de tissu,100%
+100057,robe côtelée,extérieur,Préparation de tissu,96%
+100057,robe côtelée,extérieur,Preparation de fil,4%
+300000,mini jupe à rayures diplmate,extérieur,Teinture et finition,63%
+300000,mini jupe à rayures diplmate,extérieur, Production de fibres,33%
+300000,mini jupe à rayures diplmate,extérieur,Preparation de fil,4%
+300001,mini jupe à rayures diplmate,extérieur,Teinture et finition,63%
+300001,mini jupe à rayures diplmate,extérieur, Production de fibres,33%
+300001,mini jupe à rayures diplmate,extérieur,Preparation de fil,4%
+300002,mini jupe à rayures diplmate,extérieur,Teinture et finition,63%
+300002,mini jupe à rayures diplmate,extérieur, Production de fibres,33%
+300002,mini jupe à rayures diplmate,extérieur,Preparation de fil,4%
+300003,pantalon mini-jupe ,extérieur,Teinture et finition,90%
+300003,pantalon mini-jupe ,extérieur,Preparation de fil,10%
+300004,mini jupe à volants,extérieur,Teinture et finition,100%
+300004,mini jupe à volants,doublure,Teinture et finition,100%
+300009,short en jersey doux au toucher,extérieur,Teinture et finition,33%
+300009,short en jersey doux au toucher,extérieur,Assemblée,22%
+300009,short en jersey doux au toucher,extérieur,Distribution,21%
+300009,short en jersey doux au toucher,extérieur,Elimination,10%
+300009,short en jersey doux au toucher,extérieur,Elimination,10%
+300009,short en jersey doux au toucher,extérieur,Preparation de fil,4%
+300010,short peluche,extérieur,Préparation de tissu,100%
+300012,short à boutons,extérieur,Teinture et finition,64%
+300012,short à boutons,extérieur, Production de fibres,34%
+300012,short à boutons,extérieur,Preparation de fil,2%
+300012,short à boutons,doublure,Teinture et finition,100%
+300013,bermuda structuré,extérieur,Préparation de tissu,100%
+300013,bermuda structuré,doublure,Teinture et finition,100%
+300014,short à boutons,extérieur,Teinture et finition,64%
+300014,short à boutons,extérieur, Production de fibres,31%
+300014,short à boutons,extérieur,Preparation de fil,5%
+300014,short à boutons,doublure,Teinture et finition,100%
+300015,jupe peluche,extérieur,Préparation de tissu,70%
+300015,jupe peluche,extérieur,Teinture et finition,30%
+300016,jupe peluche,extérieur,Préparation de tissu,70%
+300016,jupe peluche,extérieur,Teinture et finition,30%
+300017,jupe peluche,extérieur,Préparation de tissu,70%
+300017,jupe peluche,extérieur,Teinture et finition,30%
+300021,shorts en carreaux,extérieur,Teinture et finition,66%
+300021,shorts en carreaux,extérieur, Production de fibres,32%
+300021,shorts en carreaux,extérieur,Preparation de fil,2%
+300022,shorts droit,extérieur,Teinture et finition,77%
+300022,shorts droit,extérieur, Production de fibres,18%
+300022,shorts droit,extérieur,Preparation de fil,5%
+300023,jupe imprimée à nœud,extérieur, Production de fibres,100%
+300024,jupe plissée imprimée,extérieur,Teinture et finition,100%
+300025,jupe plissée imprimée,extérieur,Teinture et finition,100%
+300026,bermuda structuré,extérieur,Préparation de tissu,100%
+300026,bermuda structuré,doublure,Teinture et finition,100%
+300027,bermuda structuré,extérieur,Préparation de tissu,100%
+300027,bermuda structuré,doublure,Teinture et finition,100%
+300028,bermuda carreaux,extérieur,Teinture et finition,63%
+300028,bermuda carreaux,extérieur, Production de fibres,34%
+300028,bermuda carreaux,extérieur,Preparation de fil,3%
+300029,jupe en velours,extérieur,Préparation de tissu,100%
+300030,jupe en jacquard,extérieur,Teinture et finition,78%
+300030,jupe en jacquard,extérieur,Assemblée,22%
+300032,shorts en satin,extérieur,Teinture et finition,98%
+300032,shorts en satin,extérieur,Preparation de fil,2%
+300032,shorts en satin,doublure,Teinture et finition,100%
+300034,shorts en satin,extérieur,Teinture et finition,98%
+300034,shorts en satin,extérieur,Preparation de fil,2%
+300034,shorts en satin,doublure,Teinture et finition,100%
+300035,jupe pantalon,extérieur,Teinture et finition,77%
+300035,jupe pantalon,extérieur, Production de fibres,18%
+300035,jupe pantalon,extérieur,Preparation de fil,5%
+300036,jupe bermuda imprimé,extérieur, Production de fibres,100%
+300037,jupe bermuda imprimé,extérieur, Production de fibres,100%
+300038,jupe bermuda imprimé,extérieur, Production de fibres,100%
+300039,jupe bermuda imprimé,extérieur, Production de fibres,100%
+300040,jupe bermuda imprimé,extérieur, Production de fibres,100%
+300045,mini jupe d'ouverture,extérieur,Teinture et finition,100%
+300046,mini jupe drapée,extérieur,Teinture et finition,50%
+300046,mini jupe drapée,extérieur, Production de fibres,30%
+300046,mini jupe drapée,extérieur,Elimination,19%
+300046,mini jupe drapée,extérieur,Preparation de fil,1%
+300046,mini jupe drapée,doublure, Production de fibres,100%
+300047,mini jupe à volants,extérieur,Teinture et finition,100%
+300047,mini jupe à volants,doublure,Teinture et finition,100%
+300048,jupe en velours,extérieur, Production de fibres,74%
+300048,jupe en velours,extérieur,Assemblée,26%
+300049,mini jupe en velours à franges,extérieur,Teinture et finition,100%
+300050,jupe midi imprimée,extérieur,Elimination,100%
+300051,jupe aux toucher doux,extérieur,Teinture et finition,68%
+300051,jupe aux toucher doux,extérieur,Préparation de tissu,32%
+300052,jupe imprimée,extérieur,Teinture et finition,100%
+300052,jupe imprimée,doublure,Teinture et finition,100%
+300053,jupe crayon avec coutures,extérieur,Teinture et finition,68%
+300053,jupe crayon avec coutures,extérieur, Production de fibres,28%
+300053,jupe crayon avec coutures,extérieur,Preparation de fil,4%
+300053,jupe crayon avec coutures,doublure,Teinture et finition,100%
+300054,jupe plissée à carreaux,extérieur,Teinture et finition,76%
+300054,jupe plissée à carreaux,extérieur, Production de fibres,22%
+300054,jupe plissée à carreaux,extérieur,Preparation de fil,2%
+300057,mini jupe avec poche,extérieur,Préparation de tissu,100%
+300059,jupe mini combinée,extérieur,Distribution,33%
+300059,jupe mini combinée,extérieur,Préparation de tissu,30%
+300059,jupe mini combinée,extérieur,Teinture et finition,25%
+300059,jupe mini combinée,extérieur, Production de fibres,12%
+400000,corps perkins serge,extérieur,Teinture et finition,96%
+400000,corps perkins serge,extérieur,Preparation de fil,4%
+400001,corps perkins serge,extérieur,Teinture et finition,96%
+400001,corps perkins serge,extérieur,Preparation de fil,4%
+400002,corps perkins serge,extérieur,Teinture et finition,96%
+400002,corps perkins serge,extérieur,Preparation de fil,4%
+400005,t-shirt à capuche,extérieur,Préparation de tissu,49%
+400005,t-shirt à capuche,extérieur,Elimination,48%
+400005,t-shirt à capuche,extérieur,Preparation de fil,3%
+400005,t-shirt à capuche,doublure,Préparation de tissu,100%
+400006,top côtelé à col montant,extérieur,Préparation de tissu,95%
+400006,top côtelé à col montant,extérieur,Preparation de fil,5%
+400007,top côtelé à col montant,extérieur,Préparation de tissu,95%
+400007,top côtelé à col montant,extérieur,Preparation de fil,5%
+400008,top côtelé à col montant,extérieur,Préparation de tissu,95%
+400008,top côtelé à col montant,extérieur,Preparation de fil,5%
+400009,veste côtelée à bouton,extérieur,Préparation de tissu,88%
+400009,veste côtelée à bouton,extérieur,Preparation de fil,7%
+400009,veste côtelée à bouton,extérieur, Production de fibres,5%
+400010,veste côtelée à bouton,extérieur,Préparation de tissu,88%
+400010,veste côtelée à bouton,extérieur,Preparation de fil,7%
+400010,veste côtelée à bouton,extérieur, Production de fibres,5%
+400011,veste côtelée à bouton,extérieur,Préparation de tissu,88%
+400011,veste côtelée à bouton,extérieur,Preparation de fil,7%
+400011,veste côtelée à bouton,extérieur, Production de fibres,5%
+400012,t-shirt de qualité supérieure,extérieur,Préparation de tissu,100%
+400013,t-shirt de qualité supérieure,extérieur,Préparation de tissu,100%
+400014,t-shirt de qualité supérieure,extérieur,Préparation de tissu,100%
+400015,t-shirt de qualité supérieure,extérieur,Préparation de tissu,100%
+400016,t-shirt de qualité supérieure,extérieur,Préparation de tissu,100%
+400017,top à capuche collection contour limitless,extérieur,Distribution,95%
+400017,top à capuche collection contour limitless,extérieur,Preparation de fil,5%
+400018, collection contour sans  limite,extérieur,Distribution,95%
+400018, collection contour sans  limite,extérieur,Preparation de fil,5%
+400019,chemise côtelée,extérieur,Préparation de tissu,95%
+400019,chemise côtelée,extérieur,Preparation de fil,5%
+400020,chemise côtelée,extérieur,Préparation de tissu,95%
+400020,chemise côtelée,extérieur,Preparation de fil,5%
+400021,chemise côtelée,extérieur,Préparation de tissu,95%
+400021,chemise côtelée,extérieur,Preparation de fil,5%
+400022,chemise côtelée,extérieur,Préparation de tissu,95%
+400022,chemise côtelée,extérieur,Preparation de fil,5%
+400023,chemise côtelée,extérieur,Préparation de tissu,95%
+400023,chemise côtelée,extérieur,Preparation de fil,5%
+400024,body côtelé,extérieur, Production de fibres,49%
+400024,body côtelé,extérieur,Teinture et finition,28%
+400024,body côtelé,extérieur,Assemblée,23%
+400025,body côtelé,extérieur, Production de fibres,97%
+400025,body côtelé,extérieur,Preparation de fil,3%
+400026,body épaulettes,extérieur,Préparation de tissu,92%
+400026,body épaulettes,extérieur,Preparation de fil,8%
+400027,body dos-nu,extérieur,Préparation de tissu,92%
+400027,body dos-nu,extérieur,Preparation de fil,8%
+400028,body décolleté en cœur,extérieur,Préparation de tissu,42%
+400028,body décolleté en cœur,extérieur,Elimination,39%
+400028,body décolleté en cœur,extérieur,Teinture et finition,16%
+400028,body décolleté en cœur,extérieur,Preparation de fil,3%
+400029,body côtelé à boutons,extérieur, Production de fibres,55%
+400029,body côtelé à boutons,extérieur,Assemblée,25%
+400029,body côtelé à boutons,extérieur,Teinture et finition,20%
+400030,body en dentelle,extérieur,Assemblée,92%
+400030,body en dentelle,extérieur,Preparation de fil,8%
+400031,body en dentelle,extérieur,Assemblée,92%
+400031,body en dentelle,extérieur,Preparation de fil,8%
+400032,body en dentelle,extérieur,Assemblée,92%
+400032,body en dentelle,extérieur,Preparation de fil,8%
+400033,body côtelé à boutons,extérieur, Production de fibres,55%
+400033,body côtelé à boutons,extérieur,Assemblée,25%
+400033,body côtelé à boutons,extérieur,Teinture et finition,20%
+400034,body côtelé à boutons,extérieur, Production de fibres,55%
+400034,body côtelé à boutons,extérieur,Assemblée,25%
+400034,body côtelé à boutons,extérieur,Teinture et finition,20%
+400035,chemise à pression,extérieur,Préparation de tissu,96%
+400035,chemise à pression,extérieur,Preparation de fil,4%
+400036,chemise à pression,extérieur,Préparation de tissu,96%
+400036,chemise à pression,extérieur,Preparation de fil,4%
+400037,chemise à pression,extérieur,Préparation de tissu,96%
+400037,chemise à pression,extérieur,Preparation de fil,4%
+400038,chemise à pression,extérieur,Préparation de tissu,96%
+400038,chemise à pression,extérieur,Preparation de fil,4%
+400039,chemise à pression,extérieur,Préparation de tissu,96%
+400039,chemise à pression,extérieur,Preparation de fil,4%
+400040,chemise côtelée volants,extérieur,Préparation de tissu,95%
+400040,chemise côtelée volants,extérieur,Preparation de fil,5%
+400041,chemise côtelée volants,extérieur,Préparation de tissu,95%
+400041,chemise côtelée volants,extérieur,Preparation de fil,5%
+400042,chemise côtelée volants,extérieur,Préparation de tissu,95%
+400042,chemise côtelée volants,extérieur,Preparation de fil,5%
+400043,veste courte,extérieur, Production de fibres,49%
+400043,veste courte,extérieur,Teinture et finition,29%
+400043,veste courte,extérieur,Assemblée,22%
+400044,veste courte,extérieur, Production de fibres,49%
+400044,veste courte,extérieur,Teinture et finition,29%
+400044,veste courte,extérieur,Assemblée,22%
+400045,corp côtelée soft touch,extérieur, Production de fibres,74%
+400045,corp côtelée soft touch,extérieur,Teinture et finition,22%
+400045,corp côtelée soft touch,extérieur,Preparation de fil,4%
+400046,corp côtelée soft touch,extérieur, Production de fibres,74%
+400046,corp côtelée soft touch,extérieur,Teinture et finition,22%
+400046,corp côtelée soft touch,extérieur,Preparation de fil,4%
+400047,corp côtelée soft touch,extérieur, Production de fibres,74%
+400047,corp côtelée soft touch,extérieur,Teinture et finition,22%
+400047,corp côtelée soft touch,extérieur,Preparation de fil,4%
+400048,coco capitan collaboration t-shirt unisexe,extérieur,Préparation de tissu,100%
+400049,coco capitan collaboration t-shirt unisexe,extérieur,Préparation de tissu,100%
+400050,coco capitan collaboration t-shirt unisexe,extérieur,Préparation de tissu,100%
+400051,coco capitan collaboration t-shirt unisexe,extérieur,Préparation de tissu,100%
+400052,coco capitan collaboration t-shirt unisexe,extérieur,Préparation de tissu,100%
+400053,corps court,extérieur, Production de fibres,49%
+400053,corps court,extérieur,Teinture et finition,46%
+400053,corps court,extérieur,Preparation de fil,5%
+400054,corps court,extérieur, Production de fibres,49%
+400054,corps court,extérieur,Teinture et finition,46%
+400054,corps court,extérieur,Preparation de fil,5%
+400055,corps court,extérieur, Production de fibres,49%
+400055,corps court,extérieur,Teinture et finition,46%
+400055,corps court,extérieur,Preparation de fil,5%
+400056,chemise rayée,extérieur,Préparation de tissu,100%
+400057,body côtelé,extérieur,Préparation de tissu,95%
+400057,body côtelé,extérieur,Preparation de fil,5%
+400058,body côtelé,extérieur,Préparation de tissu,95%
+400058,body côtelé,extérieur,Preparation de fil,5%
+400059,body côtelé,extérieur,Préparation de tissu,95%
+400059,body côtelé,extérieur,Preparation de fil,5%
+500000,pantalon taille haute avec ceinture,extérieur,Teinture et finition,76%
+500000,pantalon taille haute avec ceinture,extérieur, Production de fibres,17%
+500000,pantalon taille haute avec ceinture,extérieur,Preparation de fil,7%
+500001,pantalon culotte,extérieur,Teinture et finition,100%
+500003,pantalon large plein longueur,extérieur,Teinture et finition,64%
+500003,pantalon large plein longueur,extérieur, Production de fibres,31%
+500003,pantalon large plein longueur,extérieur,Preparation de fil,5%
+500004,jogging en maille,extérieur, Production de fibres,46%
+500004,jogging en maille,extérieur,Distribution,28%
+500004,jogging en maille,extérieur,Teinture et finition,26%
+500005,jogging en maille,extérieur, Production de fibres,46%
+500005,jogging en maille,extérieur,Distribution,28%
+500005,jogging en maille,extérieur,Teinture et finition,26%
+500006,pantalon large plein longueur,extérieur,Teinture et finition,64%
+500006,pantalon large plein longueur,extérieur, Production de fibres,31%
+500006,pantalon large plein longueur,extérieur,Preparation de fil,5%
+500007,pantalon effet cuir,doublure,Teinture et finition,100%
+500010,jogging en maille,extérieur, Production de fibres,46%
+500010,jogging en maille,extérieur,Distribution,28%
+500010,jogging en maille,extérieur,Teinture et finition,26%
+500011,pantalon de course,extérieur,Assemblée,55%
+500011,pantalon de course,extérieur,Préparation de tissu,42%
+500011,pantalon de course,extérieur,Preparation de fil,3%
+500011,pantalon de course,doublure,Préparation de tissu,100%
+500012,pantalon culotte avec ceinture,extérieur,Teinture et finition,74%
+500012,pantalon culotte avec ceinture,extérieur, Production de fibres,20%
+500012,pantalon culotte avec ceinture,extérieur,Preparation de fil,6%
+500013,leggings de vie super élastique,extérieur,Distribution,77%
+500013,leggings de vie super élastique,extérieur,Preparation de fil,23%
+500013,leggings de vie super élastique,doublure,Distribution,77%
+500013,leggings de vie super élastique,doublure,Preparation de fil,23%
+500014,pantalon de course,extérieur,Assemblée,55%
+500014,pantalon de course,extérieur,Préparation de tissu,42%
+500014,pantalon de course,extérieur,Preparation de fil,3%
+500015,pantalon de jogger ample,extérieur,Assemblée,65%
+500015,pantalon de jogger ample,extérieur,Préparation de tissu,24%
+500015,pantalon de jogger ample,extérieur,Distribution,11%
+500016,pantalon taille haute,extérieur,Teinture et finition,100%
+500021,pantalon coupe chino double tissu,extérieur,Préparation de tissu,51%
+500021,pantalon coupe chino double tissu,extérieur,Teinture et finition,46%
+500021,pantalon coupe chino double tissu,extérieur,Preparation de fil,3%
+500022,pantalon de course,extérieur,Assemblée,100%
+500022,pantalon de course,doublure,Préparation de tissu,100%
+500023,pantalon de course,extérieur,Teinture et finition,100%
+500024,pantalon culotte avec ceinture,extérieur,Teinture et finition,62%
+500024,pantalon culotte avec ceinture,extérieur, Production de fibres,36%
+500024,pantalon culotte avec ceinture,extérieur,Preparation de fil,2%
+500025,pantalon de costume texturé,extérieur,Teinture et finition,67%
+500025,pantalon de costume texturé,extérieur, Production de fibres,29%
+500025,pantalon de costume texturé,extérieur,Preparation de fil,4%
+500026,pantalon de costume à carreaux,extérieur,Teinture et finition,67%
+500026,pantalon de costume à carreaux,extérieur, Production de fibres,31%
+500026,pantalon de costume à carreaux,extérieur,Preparation de fil,2%
+500027,pantalon avec ceinture en raphia,extérieur,Teinture et finition,100%
+500028,pantalon de jogging zw,extérieur,Assemblée,55%
+500028,pantalon de jogging zw,extérieur,Préparation de tissu,42%
+500028,pantalon de jogging zw,extérieur,Preparation de fil,3%
+500028,pantalon de jogging zw,doublure,Préparation de tissu,100%
+500029,pantalon taille haute avec ceinture,extérieur,Teinture et finition,76%
+500029,pantalon taille haute avec ceinture,extérieur, Production de fibres,17%
+500029,pantalon taille haute avec ceinture,extérieur,Preparation de fil,7%
+500030,pantalon taille haute avec ceinture,extérieur,Teinture et finition,76%
+500030,pantalon taille haute avec ceinture,extérieur, Production de fibres,17%
+500030,pantalon taille haute avec ceinture,extérieur,Preparation de fil,7%
+500031,pantalon taille haute avec ceinture,extérieur,Teinture et finition,76%
+500031,pantalon taille haute avec ceinture,extérieur, Production de fibres,17%
+500031,pantalon taille haute avec ceinture,extérieur,Preparation de fil,7%
+500032,pantalon skinny à carreaux,extérieur, Production de fibres,75%
+500032,pantalon skinny à carreaux,extérieur,Teinture et finition,22%
+500032,pantalon skinny à carreaux,extérieur,Preparation de fil,3%
+500033,pantalon moulants,extérieur,Préparation de tissu,35%
+500033,pantalon moulants,extérieur,Teinture et finition,31%
+500033,pantalon moulants,extérieur, Production de fibres,17%
+500033,pantalon moulants,extérieur,Distribution,15%
+500033,pantalon moulants,extérieur,Preparation de fil,2%
+500034,pantalon avec ceinture en raphia,extérieur,Teinture et finition,100%
+500035,pantalon imprimé,extérieur, Production de fibres,100%
+500036,pantalon de jardin,extérieur,Préparation de tissu,97%
+500036,pantalon de jardin,extérieur,Preparation de fil,3%
+500037,pantalon large à plis,extérieur,Teinture et finition,67%
+500037,pantalon large à plis,extérieur, Production de fibres,29%
+500037,pantalon large à plis,extérieur,Preparation de fil,4%
